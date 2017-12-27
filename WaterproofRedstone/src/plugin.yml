@@ -1,0 +1,8 @@
+name: WaterproofRedstone
+main: kr.kieran.wpredstone.Redstone
+version: 1.0
+description: A simple plugin to allow redstone to be resistant to water/lava.
+commands:
+    wpredstone:
+        usage: /<command>
+        description: A simple redstone waterproofing plugin.
